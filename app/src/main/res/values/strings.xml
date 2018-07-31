@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KotlinNavigationDrawer</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/titlesHome</item>
+        <item>@string/titleDashboard</item>
+        <item>@string/titleNotification</item>
+    </string-array>
+
+
+    <string name="titlesHome">Home</string>
+    <string name="titleDashboard">Home</string>
+    <string name="titleNotification">Home</string>
+</resources>
